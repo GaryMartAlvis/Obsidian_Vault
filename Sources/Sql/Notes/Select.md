@@ -8,3 +8,5 @@ Parámetros
 [x] DISTINCT(): Envuelve la el nombre de la columna para que el resultado que se retorna sean únicos
 
 [x] COUNT(*): Cuenta todos los registros de la tabla 
+
+---
