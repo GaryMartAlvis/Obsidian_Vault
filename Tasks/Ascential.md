@@ -1,0 +1,2 @@
+- [ ] Información técnica y de seguridad para trabajos con PowerAutomate en servidores de Cosmart
+- [ ] Análisis de viabilidad técnica para la automatización de envío de mensajes masivos

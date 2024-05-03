@@ -10,7 +10,7 @@
         "numberPrefix": "",
         "numberSuffix": "",
         "numberSeparator": "",
-        "content": "Group",
+        "content": "Source",
         "numberFormat": "number",
         "currencyType": "USD",
         "dateFormat": "mmddyyyy",
@@ -21,12 +21,12 @@
         "tags": [
           {
             "id": "b0476133-f80f-41ff-8e46-9f78529cf95f",
-            "content": "Create",
+            "content": "Sql",
             "color": "yellow"
           },
           {
             "id": "03526057-e500-457f-b4fb-7d800fc2e81c",
-            "content": "Read",
+            "content": "Python",
             "color": "blue"
           }
         ],
@@ -197,12 +197,12 @@
         "index": 1,
         "sourceId": null,
         "creationDateTime": "2024-05-02T14:46:21.778Z",
-        "lastEditedDateTime": "2024-05-02T14:59:48.646Z",
+        "lastEditedDateTime": "2024-05-03T13:20:36.460Z",
         "cells": [
           {
             "id": "5c062ab3-e366-4cc2-b722-bf64c730f40b",
             "columnId": "3069948d-bbd2-43fb-af03-4e45de1ce1c3",
-            "tagId": "03526057-e500-457f-b4fb-7d800fc2e81c",
+            "tagId": "b0476133-f80f-41ff-8e46-9f78529cf95f",
             "hasValidFrontmatter": null
           },
           {
@@ -220,7 +220,7 @@
           {
             "id": "e1c102c6-27ff-4d39-b634-1008e5b9f754",
             "columnId": "74fee1a6-31be-4168-96c5-21dcd865ff31",
-            "path": "Loom/Sql/Notas sql/Select",
+            "path": "Sources/Sql/Notes/Select",
             "alias": null,
             "hasValidFrontmatter": null
           },

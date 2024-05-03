@@ -1,0 +1,3 @@
+- [ ] Definición de método de pago al exterior
+- [ ] Firma de contratos con Ascential & Evolution Labs
+- [ ] Definición de fecha para la capacitación del uso del NetBank Gráfico para el cierre de módulo ⏳ 📅 04-05

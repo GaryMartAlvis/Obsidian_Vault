@@ -1,0 +1,166 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "80a77866-2d60-46b1-a4ea-d051570ef42b",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Group",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "189c0831-4065-415e-86ae-3596ee8a08dd",
+            "content": "Tutoriales",
+            "color": "yellow"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "fca9ce93-48a5-4879-b9f6-643e4be2ee99",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "multi-tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Topic",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "54a811af-926c-4c0a-a100-53d41e9e1260",
+            "content": "Obsidian",
+            "color": "pink"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "08f86642-9fd9-4d3f-afb7-c97a870fc42b",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "556px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Description",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "7688a96a-e050-4d3e-a3d3-f931597ccac7",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "84px",
+        "type": "embed",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Link",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      }
+    ],
+    "rows": [
+      {
+        "id": "ebd4a204-2714-41eb-a3c0-5e689411e61b",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-05-03T14:25:24.409Z",
+        "lastEditedDateTime": "2024-05-03T16:06:56.020Z",
+        "cells": [
+          {
+            "id": "7027695d-d3b8-44ae-85ca-2e72b5766d54",
+            "columnId": "80a77866-2d60-46b1-a4ea-d051570ef42b",
+            "tagId": "189c0831-4065-415e-86ae-3596ee8a08dd",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2bf16b6f-1963-480b-93d3-64b082341df5",
+            "columnId": "fca9ce93-48a5-4879-b9f6-643e4be2ee99",
+            "tagIds": [
+              "54a811af-926c-4c0a-a100-53d41e9e1260"
+            ],
+            "hasValidFrontmatter": null,
+            "multiTagSortDir": "default"
+          },
+          {
+            "id": "77e10071-eae0-48f8-b27b-8ce183778cb0",
+            "columnId": "08f86642-9fd9-4d3f-afb7-c97a870fc42b",
+            "content": "Plugin Dataview - Como manejar tareas",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f2c7a558-ffe7-465f-b7de-ee7088370f36",
+            "columnId": "7688a96a-e050-4d3e-a3d3-f931597ccac7",
+            "isExternal": true,
+            "pathOrUrl": "https://www.youtube.com/watch?v=GMF6ldlLiDI",
+            "alias": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 3,
+      "showCalculationRow": false
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.16.0"
+}
