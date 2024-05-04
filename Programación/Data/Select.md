@@ -1,3 +1,5 @@
+[[Sql]]
+
 Comando para seleccionar columnas de una tabla.
 Parámetros
 
