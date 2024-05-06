@@ -1,3 +1,3 @@
 [[Data]]
-[[Select]]
+[[SELECT]] | [[WHERE]]
 Structure Query Language - Lenguaje de consulta estructurado

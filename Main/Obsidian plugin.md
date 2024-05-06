@@ -8,3 +8,4 @@ Homepage:: Pagina principal
 Iconize:: Iconos para folders y archivos
 Mind Map:: Mapas mentales
 Tasks:: Lista de tareas
+Multi-Column Markdown: Crear columnas en archivos markdown

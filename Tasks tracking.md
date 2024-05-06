@@ -1,6 +1,6 @@
 ```dataview
 TASK
-FROM "Tasks" 
+FROM "Tasks"
 WHERE !completed
 GROUP BY file.link
 ```
