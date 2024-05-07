@@ -1,4 +1,4 @@
-[[Sql]]
+[[Cláusulas de selección]]
 
 Comando para seleccionar columnas de una tabla.
 Parámetros
