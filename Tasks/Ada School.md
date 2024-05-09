@@ -1,0 +1,3 @@
+- [ ] PI-ToDoListApp: Creación de app web To Do List App con Django ⏳ 13-05
+- [ ] PI-WebAppDjango: Crear una app Super Química con Django ⏳ 18-05
+- [ ] Evalución de conocimiento Python: Crear App de Consola ⏳ 25-05 

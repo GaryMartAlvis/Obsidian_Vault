@@ -1,1 +1,0 @@
-- [ ] Recordatorio metas para la redefinición de metas de captaciones ⏳ 📅 03-05 

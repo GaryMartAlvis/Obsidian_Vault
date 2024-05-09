@@ -1,5 +1,5 @@
 [[Data]]
-[[SELECT]] | [[WHERE]]
+[[Cláusulas de selección]], [[Cláusulas de definición de tablas]], [[Cláusulas de ordenamiento y limitación]]
 Structure Query Language - Lenguaje de consulta estructurado
 
 ### Orden de ejecución de las consultas SQL
@@ -9,13 +9,13 @@ FROM
 --Step1: La primera parte de una consulta SQL suele ser la cláusula `FROM`, que especifica las tablas de las que se extraerán los datos.
 
 WHERE
---Step2: Después de la cláusula `FROM`, se aplica la cláusula `WHERE`, que filtra las filas de las tablas especificadas en la cláusula `FROM` según las condiciones proporcionadas.
+--Step2: Filtra registros individuales, Después de la cláusula `FROM`, se aplica la cláusula `WHERE`, que filtra las filas de las tablas especificadas en la cláusula `FROM` según las condiciones proporcionadas.
 
 GROUP BY
 --Step3: Si se está utilizando la cláusula `GROUP BY`, los datos se agrupan en conjuntos según los valores de las columnas especificadas en esta cláusula.
 
 HAVING
---Step4: La cláusula `HAVING` se usa para filtrar grupos de datos creados por la cláusula `GROUP BY` basándose en condiciones específicas. Esta cláusula se aplica después de la agrupación de datos.
+--Step4: Filtra registros agrupados, La cláusula `HAVING` se usa para filtrar grupos de datos creados por la cláusula `GROUP BY` basándose en condiciones específicas. Esta cláusula se aplica después de la agrupación de datos.
 
 SELECT
 --Step5: La cláusula `SELECT` se utiliza para seleccionar las columnas que se mostrarán en los resultados de la consulta. Aquí es donde se aplican las funciones de agregación si se están utilizando (`SUM()`, `COUNT()`, `AVG()`).

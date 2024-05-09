@@ -1,4 +1,6 @@
 [[Cláusulas de definición de tablas]]
+
+La cláusula WHERE  filtra registros individuales.
 `WHERE` es una cláusula en SQL que se utiliza para filtrar filas de una tabla o vista. Cuando ejecutas una consulta SQL que incluye la cláusula `WHERE`, estás especificando un conjunto de condiciones que deben cumplir las filas para ser incluidas en el resultado de la consulta.
 
 Entre las clausulas que se pueden utilizar como parámetros están:

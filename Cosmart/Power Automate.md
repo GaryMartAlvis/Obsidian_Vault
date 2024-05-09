@@ -1,3 +1,3 @@
-[[Power Automate]] |  [[Ascential]] | [[RPA]]
+[[Power Automate]] |  [[Ada School]] | [[RPA]]
 
 - [ ] Solicitar a Ascential códigos de productos de licencias Power Automate Premium y Add On Power Automate Unattended 📅 05-06 

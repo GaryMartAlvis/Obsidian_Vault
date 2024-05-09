@@ -11,4 +11,3 @@ TASK
 FROM "Tasks"
 WHERE completed
 ```
-

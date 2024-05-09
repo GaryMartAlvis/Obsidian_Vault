@@ -42,6 +42,9 @@ procesara la herramienta Power Automate. ^5IWJRhpN
 Con que canal de comunicación trabajaría
 la tecnología RPA. ^gi1XXdWJ
 
+El proyecto requiere NO OBJECIÓN de la ASFI
+por ser un proyecto en la nube. ^P12dXGvG
+
 # Element Links
 OAh66cOI: [[On-Premise]]
 
@@ -1849,8 +1852,8 @@ OAh66cOI: [[On-Premise]]
 		},
 		{
 			"type": "rectangle",
-			"version": 442,
-			"versionNonce": 684522836,
+			"version": 444,
+			"versionNonce": 724586371,
 			"isDeleted": false,
 			"id": "sjE4_lhOJVWqoWd6SaNKD",
 			"fillStyle": "solid",
@@ -1877,14 +1880,14 @@ OAh66cOI: [[On-Premise]]
 					"id": "a30t9oTT"
 				}
 			],
-			"updated": 1715105489834,
+			"updated": 1715268849498,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 353,
-			"versionNonce": 1418408428,
+			"version": 355,
+			"versionNonce": 807495459,
 			"isDeleted": false,
 			"id": "a30t9oTT",
 			"fillStyle": "solid",
@@ -1904,7 +1907,7 @@ OAh66cOI: [[On-Premise]]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715105489834,
+			"updated": 1715268849499,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2423,6 +2426,71 @@ OAh66cOI: [[On-Premise]]
 			"updated": 1715105489834,
 			"link": null,
 			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 1023,
+			"versionNonce": 1981218541,
+			"isDeleted": false,
+			"id": "P12dXGvG",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 794.2870511142437,
+			"y": 736.3515871309636,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 845.4237060546875,
+			"height": 90,
+			"seed": 1400390723,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715268900652,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 1,
+			"text": "El proyecto requiere NO OBJECIÓN de la ASFI\npor ser un proyecto en la nube.",
+			"rawText": "El proyecto requiere NO OBJECIÓN de la ASFI\npor ser un proyecto en la nube.",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "El proyecto requiere NO OBJECIÓN de la ASFI\npor ser un proyecto en la nube.",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "rectangle",
+			"version": 236,
+			"versionNonce": 1295819139,
+			"isDeleted": false,
+			"id": "8SMbMJR5WE7J4P4WC35dD",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 704.8788921268565,
+			"y": 752.6897216449967,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 45.68710100034241,
+			"height": 45.68710100034238,
+			"seed": 311536845,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1715268905367,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -2440,8 +2508,8 @@ OAh66cOI: [[On-Premise]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 315.82296244295935,
-		"scrollY": 240.477522546027,
+		"scrollX": 329.55028464569955,
+		"scrollY": 260.69388128611746,
 		"zoom": {
 			"value": 0.55
 		},
